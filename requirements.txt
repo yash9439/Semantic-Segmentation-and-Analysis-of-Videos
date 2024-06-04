@@ -1,0 +1,11 @@
+pytube
+moviepy
+SpeechRecognition 
+gentle
+nltk
+transformers
+pydub
+noisereduce
+gradio
+librosa
+matplotlib
